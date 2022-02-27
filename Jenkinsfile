@@ -15,7 +15,7 @@ pipeline
           severity: 'low',
           snykInstallation: 'Snyk_Test',
           snykTokenId: 'Snyk-Jenkins',
-          failOnIssues: 'false'
+          failOnIssues: 'true'
         )		
       }
     }
